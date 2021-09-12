@@ -6,7 +6,7 @@
 # (bash, zsh, sh, etc.)
 
 SOURCE_PATH="~/projects/github/documentation/source/protocol"
-
+ls ${SOURCE_PATH}
 BUILD_PATH="~/projects/github/protocol/"
 
 # export to gihut readable markdown
