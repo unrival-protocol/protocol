@@ -11,6 +11,8 @@ BUILD_PATH="~/projects/protocol/"
 
 # export to gihut readable markdown
 
+echo "$SOURCE_PATH"
+echo "$BUILD_PATH"
 obsidian-export "$SOURCE_PATH" "$BUILD_PATH"
 
 # ^^^^^^^^^^^^^^^^^^^^^^^^^^ We are assigning the variable `ZK_PATH`

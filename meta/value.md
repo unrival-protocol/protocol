@@ -1,1 +1,0 @@
-A value is an [[object]] associated with an [[interpretation]] within some [[context]].
