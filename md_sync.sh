@@ -5,15 +5,15 @@
 # should work just fine on most systems and instances of shells
 # (bash, zsh, sh, etc.)
 
-SOURCE_PATH="~/projects/documentation/source/protocol"
+SOURCE_PATH="~/projects/github/documentation/source/protocol"
 
-BUILD_PATH="~/projects/protocol/"
+BUILD_PATH="~/projects/github/protocol/"
 
 # export to gihut readable markdown
 
 echo "$SOURCE_PATH"
 echo "$BUILD_PATH"
-obsidian-export "$SOURCE_PATH" "$BUILD_PATH"
+/Users/davidjoseph/.cargo/bin/obsidian-export "$SOURCE_PATH" "$BUILD_PATH"
 
 # ^^^^^^^^^^^^^^^^^^^^^^^^^^ We are assigning the variable `ZK_PATH`
 # with the (maybe) long string to our vault's location (mine is super
