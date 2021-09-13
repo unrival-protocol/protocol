@@ -1,1 +1,1 @@
-A value is an [object](../object/object.md) associated with an [interpretation](../object/simple/interpretation.md) within some [context](../object/complex/context.md).
+A value is a reference to an [object](object/README) associated with an [interpretation](../object/interpretation.md) within some [context](../object/context.md).
