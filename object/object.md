@@ -1,4 +1,4 @@
-An object is something that can be unambiguously referenced by means of an [address](../meta/address.md)
+An object is something that can be unambiguously referenced by means of an [address](../meta/address.md).
 
 A simple object is an object containing no [part](../meta/part.md)s.
 
