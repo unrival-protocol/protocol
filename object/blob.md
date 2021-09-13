@@ -1,1 +1,1 @@
-A blob is a simple [object](README) pointing to unspecified data.
+A blob is a simple [object](object.md) pointing to unspecified data.

@@ -1,4 +1,4 @@
-A context is a complex [object](README)  that contains:
+A context is a complex [object](object.md) that contains:
 
 1. a set of [interpretation](interpretation.md)s associated with [value](../meta/value.md)s.
 1. a set of [ledger](ledger.md)s bijectively mapped to this set of interpretations.
