@@ -1,0 +1,4 @@
+The Confucian project of intending to make words correspond with reality.
+
+ > 
+ > A superior man, in regard to what he does not know, shows a cautious reserve. If names be not correct, language is not in accordance with the truth of things. If language be not in accordance with the truth of things, affairs cannot be carried on to success. When affairs cannot be carried on to success, proprieties and music do not flourish. When proprieties and music do not flourish, punishments will not be properly awarded. When punishments are not properly awarded, the people do not know how to move hand or foot. Therefore a superior man considers it necessary that the names he uses may be spoken appropriately, and also that what he speaks may be carried out appropriately. What the superior man requires is just that in his words there may be nothing incorrect.  — [Confucius](https://en.wikipedia.org/wiki/Confucius "Confucius"), Analects, Book XIII, Chapter 3, verses 4–7
