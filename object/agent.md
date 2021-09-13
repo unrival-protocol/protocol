@@ -1,1 +1,1 @@
-An agent is a complex [object](object/README) capable of verifying a claim.
+An agent is a complex [object](README) capable of verifying a claim.
